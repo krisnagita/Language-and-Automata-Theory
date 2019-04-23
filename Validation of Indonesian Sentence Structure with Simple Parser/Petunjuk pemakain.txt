@@ -1,0 +1,18 @@
+Nama :
+	I Wayan Krisna Gita Santika 1301170109
+	Naufal Farras Deofanny	1301170190
+
+Petunjuk Pemakaian :
+	1. Masukkan kata sesuai yang terset di program, jika tidak maka error
+	2. Kata harus terurut S-P-O-K, dan S-P wajib termasuk
+	3. Tunggu program bekerja, dan out akan keluar sesuai inputan
+
+Kondisi Valid	:
+		 1. S-P
+		 2. S-P-K
+		 3. S-P-O
+		 4. S-P-O-K
+
+Kondisi Tidak Valid :
+		 1. Kata tidak sesuai yang terset di program
+		 2. Sesuai kondisi valid namun tiap kata tanpa spasi

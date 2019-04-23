@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1544033480 source:c:\users\miller\documents\data structure\tubes tba pal\main.cpp
+	<iostream>
+	"header.h"
+
+1543613075 c:\users\miller\documents\data structure\tubes tba pal\header.h
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+
+1544007042 source:c:\users\miller\documents\data structure\tubes tba pal\procedure.cpp
+	"header.h"
+
+1544033480 source:c:\users\user\desktop\tugas besar tba\tubes tba pal\main.cpp
+	<iostream>
+	"header.h"
+
+1543613075 c:\users\user\desktop\tugas besar tba\tubes tba pal\header.h
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+
+1544007042 source:c:\users\user\desktop\tugas besar tba\tubes tba pal\procedure.cpp
+	"header.h"
+
+1544033480 source:c:\users\user\desktop\tugas besar tba\tugas besar kelompok 3 if-41-06\tugas besar tba aplikasi\main.cpp
+	<iostream>
+	"header.h"
+
+1543613075 c:\users\user\desktop\tugas besar tba\tugas besar kelompok 3 if-41-06\tugas besar tba aplikasi\header.h
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+
+1544007042 source:c:\users\user\desktop\tugas besar tba\tugas besar kelompok 3 if-41-06\tugas besar tba aplikasi\procedure.cpp
+	"header.h"
+
